@@ -105,11 +105,13 @@ The code was witten on Solidity and the contracts were compiled and deployed usi
 
 
 *Metamask confirmation and gas fees:* 
+
 ![image](Evaluation_evidence/4_deploy_test_8_3.PNG)
 <p></p><br>
 
 
 *Validating new minter was accepted:*
+
 ![image](Evaluation_evidence/4_deploy_test_8_4.PNG)
 <p></p><br>
 
